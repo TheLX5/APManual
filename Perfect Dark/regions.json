@@ -1,0 +1,58 @@
+{
+	"Carrington Institute": 	{
+		"starting": true,
+		"connects_to": [
+			"Mission 1",
+			"Mission 2",
+			"Mission 3",
+			"Mission 4",
+			"Mission 5",
+			"Mission 6"
+		],
+		"requires": []
+	},
+	"Mission 1": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 1|"
+	},
+	"Mission 2": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 2|"
+	},
+	"Mission 3": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 3|"
+	},
+	"Mission 4": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 4|"
+	},
+	"Mission 5": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 5|"
+	},
+	"Mission 6": {
+		"connects_to": ["Mission 7"],
+		"requires": "|Mission 6|"
+	},
+	"Mission 7": {
+		"connects_to": ["Mission 8", "Special Assignments"],
+		"requires": "|Mission 7|"
+	},
+	"Mission 8": {
+		"connects_to": ["Mission 9"],
+		"requires": "|Mission 8|"
+	},
+	"Mission 9": {
+		"connects_to": ["Medals"],
+		"requires": "|Mission 9|"
+	},
+	"Special Assignments": {
+		"connects_to": ["Medals"],
+		"requires": "|Special Assignments|"
+	},
+	"Medals": {
+		"connects_to": [],
+		"requires": []
+	}
+}

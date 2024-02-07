@@ -1,0 +1,500 @@
+[
+	{
+		"count":5,
+		"name": "Assignment Medal",
+		"category": ["Medals"],
+		"progression": true
+	},
+	{
+		"count":17,
+		"name": "Mission Star",
+		"category": ["Stars"],
+		"progression": true
+	},
+	{
+		"count":4,
+		"name": "Special Assignment Star",
+		"category": ["Stars"],
+		"progression": true
+	},
+	{
+		"count":32,
+		"name": "Firing Range Platinum Star",
+		"category": ["Stars"],
+		"progression": true
+	},
+	{
+		"count":10,
+		"name": "Device Training Star",
+		"category": ["Stars"],
+		"progression": true
+	},
+	{
+		"count":7,
+		"name": "Holo VR Star",
+		"category": ["Stars"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 1",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 2",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 3",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 4",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 5",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 6",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 7",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 8",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mission 9",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Special Assignments",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Falcon 2",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Falcon 2 (Silencer)",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Falcon 2 (Scope)",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "AR34",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "RC-P120",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Laser",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "CMP150",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "DY357 Magnum",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "DY357-LX",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shotgun",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "K7 Avenger",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dragon",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SuperDragon",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rocket Launcher",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Devastator",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Phoenix",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Callisto NTG",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "FarSight XR-20",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mauler",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reaper",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Slayer",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "MagSec 4",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cyclone",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sniper Rifle",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Combat Knife",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crossbow",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tranquilizer",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grenade",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Timed Mine",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Proximity Mine",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Remote Mine",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Psychosis Gun",
+		"category": ["Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "BombSpy",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Data Uplink",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "ECM Mine",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "CamSpy",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Night Vision",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Door Decoder",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "R-Tracker",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "IR Scanner",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "X-Ray Scanner",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cloaking Device",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Combat Boost",
+		"category": ["Gadgets"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Shields",
+		"category": ["QoL"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Weapons secondary action",
+		"category": ["QoL"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Akimbo weapons",
+		"category": ["QoL"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Laptop Gun",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "DrugSpy",
+		"category": ["Gadgets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Start with Cloaking Device",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Rocket Launcher",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Sniper Rifle",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Super Dragon",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Laptop Gun",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Phoenix",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with Psychosis Gun",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with DY357-LX",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with FarSight XR-20",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with PP9i",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with CCI3",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with KLO1313",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with KF7 Special",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with ZZT (9mm)",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with DMC",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with AR53",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with RC-P45",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Start with R-Tracker (Weapons)",
+		"category": ["Start With"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hurricane Fists",
+		"category": ["Start With"],
+		"useful": true
+	}
+]

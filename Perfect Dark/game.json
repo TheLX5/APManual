@@ -1,0 +1,26 @@
+{
+	"game": "PerfectDark",
+	"creator": "lx5",
+	"filler_item_name": "Cheese",
+    "starting_items": [
+        {
+            "items": [
+				"Mission 1",
+				"Mission 2",
+				"Mission 3",
+				"Mission 4",
+				"Mission 5",
+				"Mission 6"
+			],
+            "random": 1
+        },
+        {
+            "item_categories": ["Weapons"],
+            "random": 2
+        },
+        {
+            "item_categories": ["Gadgets"],
+            "random": 1
+        }
+    ]
+}

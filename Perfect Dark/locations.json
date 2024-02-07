@@ -1,0 +1,1638 @@
+[
+	{
+		"name": "dataDyne Central - Defection: Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "dataDyne Central - Defection: Special Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |ECM Mine| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "dataDyne Central - Defection: Perfect Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |ECM Mine| AND |Data Uplink| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "dataDyne Central - Defection: Laptop Gun",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |ECM Mine| AND |Data Uplink| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "dataDyne Research - Investigation: Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |CamSpy| AND |Data Uplink| AND |Falcon 2|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "dataDyne Research - Investigation: Secret Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |CamSpy| AND |Data Uplink| AND |Falcon 2|"
+	},
+	{
+		"name": "dataDyne Research - Investigation: Perfect Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |CamSpy| AND |Data Uplink| AND |Falcon 2|"
+	},
+	{
+		"name": "dataDyne Research - Investigation: Proximity Mines",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1|"
+	},
+	{
+		"name": "dataDyne Research - Investigation: Double CMP150",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |CamSpy|"
+	},
+	{
+		"name": "dataDyne Central - Extraction: Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |Night Vision| AND |Falcon 2 (Scope)|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "dataDyne Central - Extraction: Secret Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |Night Vision| AND |Falcon 2 (Scope)| AND ( |Shotgun| OR |CMP150| )"
+	},
+	{
+		"name": "dataDyne Central - Extraction: Perfect Agent",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |Night Vision| AND |Falcon 2 (Scope)| AND ( |Shotgun| OR |CMP150| )"
+	},
+	{
+		"name": "dataDyne Central - Extraction: Dragon",
+		"region": "Mission 1",
+		"category": ["Mission"],
+		"requires": "|Mission 1| AND |Night Vision| AND |Falcon 2 (Scope)| AND |Grenade|"
+	},
+	{
+		"name": "Carrington Villa - Hostage One: Agent",
+		"region": "Mission 2",
+		"category": ["Mission"],
+		"requires": "|Mission 2| AND |Sniper Rifle|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Carrington Villa - Hostage One: Special Agent",
+		"region": "Mission 2",
+		"category": ["Mission"],
+		"requires": "|Mission 2| AND |Sniper Rifle|"
+	},
+	{
+		"name": "Carrington Villa - Hostage One: Perfect Agent",
+		"region": "Mission 2",
+		"category": ["Mission"],
+		"requires": "|Mission 2| AND |Laptop Gun|"
+	},
+	{
+		"name": "Carrington Villa - Hostage One: Devastator",
+		"region": "Mission 2",
+		"category": ["Mission"],
+		"requires": "|Mission 2| AND |Sniper Rifle|"
+	},
+	{
+		"name": "Carrington Villa - Hostage One: Double CMP150",
+		"region": "Mission 2",
+		"category": ["Mission"],
+		"requires": "|Mission 2| AND |Sniper Rifle|"
+	},
+	{
+		"name": "Chicago - Stealth: Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Data Uplink| AND |Falcon 2 (Scope)|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Chicago - Stealth: Special Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Data Uplink| AND |Falcon 2 (Scope)| AND |Remote Mine|"
+	},
+	{
+		"name": "Chicago - Stealth: Perfect Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Data Uplink| AND |Falcon 2 (Scope)| AND |Remote Mine|"
+	},
+	{
+		"name": "Chicago - Stealth: BombSpy",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Falcon 2 (Scope)|"
+	},
+	{
+		"name": "Chicago - Stealth: Double Falcon 2 (Scope)",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Falcon 2 (Scope)|"
+	},
+	{
+		"name": "G5 Building - Reconnaissance: Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |CamSpy| AND |Door Decoder| AND |Falcon 2 (Silencer)|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "G5 Building - Reconnaissance: Special Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |CamSpy| AND |Door Decoder| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "G5 Building - Reconnaissance: Perfect Agent",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |CamSpy| AND |Door Decoder| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "G5 Building - Reconnaissance: Crossbow",
+		"region": "Mission 3",
+		"category": ["Mission"],
+		"requires": "|Mission 3| AND |Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "Area 51 - Infiltration: Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Area 51 - Infiltration: Special Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2|"
+	},
+	{
+		"name": "Area 51 - Infiltration: Perfect Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2|"
+	},
+	{
+		"name": "Area 51 - Infiltration: Rocket Launcher",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2|"
+	},
+	{
+		"name": "Area 51 - Rescue: Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Silencer)| AND |X-Ray Scanner|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Area 51 - Rescue: Special Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Silencer)| AND |X-Ray Scanner|"
+	},
+	{
+		"name": "Area 51 - Rescue: Perfect Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Silencer)| AND |Data Uplink| AND |X-Ray Scanner| AND ( |SuperDragon| OR |Dragon| )"
+	},
+	{
+		"name": "Area 51 - Rescue: Phoenix",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Silencer)| AND |X-Ray Scanner|"
+	},
+	{
+		"name": "Area 51 - Rescue: Double Falcon 2 (Silencer)",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Silencer)| AND |X-Ray Scanner|"
+	},
+	{
+		"name": "Area 51 - Escape: Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Scope)| ",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Area 51 - Escape: Special Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Scope)| AND |SuperDragon|"
+	},
+	{
+		"name": "Area 51 - Escape: Perfect Agent",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4| AND |Falcon 2 (Scope)| AND |SuperDragon|"
+	},
+	{
+		"name": "Area 51 - Escape: Double Falcon 2 (Scope)",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4|"
+	},
+	{
+		"name": "Area 51 - Escape: Remote Mines",
+		"region": "Mission 4",
+		"category": ["Mission"],
+		"requires": "|Mission 4|"
+	},
+	{
+		"name": "Air Base - Espionage: Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Crossbow| OR |DrugSpy| ) AND ( |K7 Avenger| OR |Dragon| )",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Air Base - Espionage: Special Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Crossbow| OR |DrugSpy| ) AND ( |K7 Avenger| OR |Dragon| )"
+	},
+	{
+		"name": "Air Base - Espionage: Perfect Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Crossbow| OR |DrugSpy| ) AND ( |K7 Avenger| OR |Dragon| )"
+	},
+	{
+		"name": "Air Base - Espionage: Double DY357 Magnum",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Crossbow| OR |DrugSpy| ) AND ( |K7 Avenger| OR |Dragon| )"
+	},
+	{
+		"name": "Air Base - Espionage: Proximity Mine",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Crossbow| OR |DrugSpy| ) AND ( |K7 Avenger| OR |Dragon| )"
+	},
+	{
+		"name": "Air Force One - Antiterrorism: Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND |Laptop Gun| AND |Timed Mine|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Air Force One - Antiterrorism: Special Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND |Laptop Gun| AND |Timed Mine|"
+	},
+	{
+		"name": "Air Force One - Antiterrorism: Perfect Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND |Laptop Gun| AND |Timed Mine|"
+	},
+	{
+		"name": "Air Force One - Antiterrorism: Double Cyclone",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND |Laptop Gun| AND |Timed Mine|"
+	},
+	{
+		"name": "Crash Site - Confrontation: Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Falcon 2 (Scope)| OR |Sniper Rifle| )",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Crash Site - Confrontation: Special Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Falcon 2 (Scope)| OR |Sniper Rifle| )"
+	},
+	{
+		"name": "Crash Site - Confrontation: Perfect Agent",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Falcon 2 (Scope)| OR |Sniper Rifle| ) AND |Remote Mine|"
+	},
+	{
+		"name": "Crash Site - Confrontation: Proximity Mine",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND ( |Falcon 2 (Scope)| OR |Sniper Rifle| )"
+	},
+	{
+		"name": "Crash Site - Confrontation: DY357-LX",
+		"region": "Mission 5",
+		"category": ["Mission"],
+		"requires": "|Mission 5| AND (|Falcon 2 (Scope)| OR |Sniper Rifle| ) AND |Weapons secondary action|"
+	},
+	{
+		"name": "Pelagic II - Exploration: Agent",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND (|Falcon 2 (Silencer)| OR |Laptop Gun| ) AND |X-Ray Scanner|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Pelagic II - Exploration: Special Agent",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Silencer)| OR |Laptop Gun| ) AND |X-Ray Scanner|"
+	},
+	{
+		"name": "Pelagic II - Exploration: Perfect Agent",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Silencer)| OR |Laptop Gun| ) AND |X-Ray Scanner|"
+	},
+	{
+		"name": "Pelagic II - Exploration: Double Falcon 2 (Silencer)",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Silencer)| OR |Laptop Gun| )"
+	},
+	{
+		"name": "Deep Sea - Nullify Threat: Agent",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Scope)| OR |Shotgun| ) AND |IR Scanner|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Deep Sea - Nullify Threat: Special Agent",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Scope)| OR |Shotgun| ) AND |IR Scanner|"
+	},
+	{
+		"region": "Mission 6",
+		"name": "Deep Sea - Nullify Threat: Perfect Agent",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Scope)| OR |Shotgun| ) AND |IR Scanner| AND |FarSight XR-20|"
+	},
+	{
+		"name": "Deep Sea - Nullify Threat: Proximity Mines",
+		"region": "Mission 6",
+		"category": ["Mission"],
+		"requires": "|Mission 6| AND ( |Falcon 2 (Scope)| OR |Shotgun| ) AND |IR Scanner|"
+	},
+	{
+		"region": "Mission 7",
+		"name": "Carrington Institute - Defense: Agent",
+		"category": ["Mission"],
+		"requires": "|Mission 7| AND |AR34| AND |Data Uplink|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Carrington Institute - Defense: Special Agent",
+		"region": "Mission 7",
+		"category": ["Mission"],
+		"requires": "|Mission 7| AND |AR34| AND |Data Uplink|"
+	},
+	{
+		"name": "Carrington Institute - Defense: Perfect Agent",
+		"region": "Mission 7",
+		"category": ["Mission"],
+		"requires": "|Mission 7| AND |AR34| AND |Data Uplink| AND |Laser|"
+	},
+	{
+		"name": "Carrington Institute - Defense: Devastator",
+		"region": "Mission 7",
+		"category": ["Mission"],
+		"requires": "|Mission 7| AND |AR34| AND |Data Uplink|"
+	},
+	{
+		"name": "Attack Ship - Covert Assault: Agent",
+		"region": "Mission 8",
+		"category": ["Mission"],
+		"requires": "|Mission 8| AND |Mauler| AND |AR34|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Attack Ship - Covert Assault: Special Agent",
+		"region": "Mission 8",
+		"category": ["Mission"],
+		"requires": "|Mission 8| AND |Mauler| AND |AR34|"
+	},
+	{
+		"name": "Attack Ship - Covert Assault: Perfect Agent",
+		"region": "Mission 8",
+		"category": ["Mission"],
+		"requires": "|Mission 8| AND |Mauler| AND |AR34|"
+	},
+	{
+		"name": "Attack Ship - Covert Assault: Slayer",
+		"region": "Mission 8",
+		"category": ["Mission"],
+		"requires": "|Mission 8| AND |Mauler| AND |AR34|"
+	},
+	{
+		"name": "Attack Ship - Covert Assault: Double Mauler",
+		"region": "Mission 8",
+		"category": ["Mission"],
+		"requires": "|Mission 8| AND |Mauler| AND |AR34|"
+	},
+	{
+		"name": "Skedar Ruins - Battle Shrine: Agent",
+		"region": "Mission 9",
+		"category": ["Mission"],
+		"requires": "|Mission 9| AND |Falcon 2 (Scope)| AND |Callisto NTG| AND |Devastator| AND |IR Scanner| AND |R-Tracker|",
+		"place_item": ["Mission Star"]
+	},
+	{
+		"name": "Skedar Ruins - Battle Shrine: Special Agent",
+		"region": "Mission 9",
+		"category": ["Mission"],
+		"requires": "|Mission 9| AND |Falcon 2 (Scope)| AND |Callisto NTG| AND |Devastator| AND |IR Scanner| AND |R-Tracker|"
+	},
+	{
+		"name": "Skedar Ruins - Battle Shrine: Perfect Agent",
+		"region": "Mission 9",
+		"category": ["Mission"],
+		"requires": "|Mission 9| AND |Falcon 2 (Scope)| AND |Callisto NTG| AND |Devastator| AND |IR Scanner| AND |R-Tracker|"
+	},
+	{
+		"name": "Skedar Ruins - Battle Shrine: Double Phoenix",
+		"region": "Mission 9",
+		"category": ["Mission"],
+		"requires": "|Mission 9| AND |Falcon 2 (Scope)| AND |Callisto NTG| AND |Devastator| AND |IR Scanner| AND |R-Tracker|"
+	},
+	{
+		"region": "Special Assignments",
+		"name": "Mr Blonde's Revenge: Agent",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Mauler| AND |BombSpy| AND |Cloaking Device|",
+		"place_item": ["Special Assignment Star"]
+	},
+	{
+		"name": "Mr Blonde's Revenge: Special Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Mauler| AND |BombSpy| AND |Cloaking Device|"
+	},
+	{
+		"name": "Mr Blonde's Revenge: Perfect Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Mauler| AND |BombSpy| AND |Cloaking Device|"
+	},
+	{
+		"name": "Mr Blonde's Revenge: Double CMP150",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Mauler| AND |BombSpy| AND |Cloaking Device|"
+	},
+	{
+		"name": "Maian SOS: Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2| AND |Dragon| AND |Tranquilizer|",
+		"place_item": ["Special Assignment Star"]
+	},
+	{
+		"name": "Maian SOS: Special Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2| AND |Dragon| AND |Tranquilizer|"
+	},
+	{
+		"name": "Maian SOS: Perfect Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2| AND |Dragon| AND |Tranquilizer| AND |DY357-LX|"
+	},
+	{
+		"name": "Maian SOS: Psychosis Gun",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2| AND |Dragon| AND |Tranquilizer|"
+	},
+	{
+		"name": "Maian SOS: Double DY357-LX",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2| AND |Dragon| AND |Tranquilizer|"
+	},
+	{
+		"region": "Special Assignments",
+		"name": "WAR!: Agent",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Phoenix| AND |Callisto NTG| AND |Mauler|",
+		"place_item": ["Special Assignment Star"]
+	},
+	{
+		"name": "WAR!: Special Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Phoenix| AND |Callisto NTG| AND |Mauler|"
+	},
+	{
+		"name": "WAR!: Perfect Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Phoenix| AND |Callisto NTG| AND |Mauler|"
+	},
+	{
+		"region": "Special Assignments",
+		"name": "The Duel: Agent",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2 (Scope)|",
+		"place_item": ["Special Assignment Star"]
+	},
+	{
+		"name": "The Duel: Special Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2 (Scope)|"
+	},
+	{
+		"name": "The Duel: Perfect Agent",
+		"region": "Special Assignments",
+		"category": ["Mission"],
+		"requires": "|Special Assignments| AND |Falcon 2 (Scope)| AND |DY357 Magnum|"
+	},
+	{
+		"name": "Holo VR: Holo 1 - Looking Around",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": []
+	},
+	{
+		"name": "Holo VR: Holo 1 - Looking Around [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": [],
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 2 - Movement 1",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": []
+	},
+	{
+		"name": "Holo VR: Holo 2 - Movement 1 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": [],
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 3 - Movement 2",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": []
+	},
+	{
+		"name": "Holo VR: Holo 3 - Movement 2 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": [],
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 4 - Unarmed Combat 1",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": []
+	},
+	{
+		"name": "Holo VR: Holo 4 - Unarmed Combat 1 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": [],
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 5 - Unarmed Combat 2",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|"
+	},
+	{
+		"name": "Holo VR: Holo 5 - Unarmed Combat 2 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|",
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 6 - Live Combat 1",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|"
+	},
+	{
+		"name": "Holo VR: Holo 6 - Live Combat 1 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|",
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Holo VR: Holo 7 - Live Combat 2",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|"
+	},
+	{
+		"name": "Holo VR: Holo 7 - Live Combat 2 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Holo VR"],
+		"requires": "|Weapons secondary action| AND |Falcon 2|",
+		"place_item": ["Holo VR Star"]
+	},
+	{
+		"name": "Device Training: Data Uplink",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Data Uplink|"
+	},
+	{
+		"name": "Device Training: Data Uplink [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Data Uplink|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: ECM Mine",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|ECM Mine|"
+	},
+	{
+		"name": "Device Training: ECM Mine [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|ECM Mine|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: CamSpy",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|CamSpy|"
+	},
+	{
+		"name": "Device Training: CamSpy [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|CamSpy|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: Night Vision",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Night Vision|"
+	},
+	{
+		"name": "Device Training: Night Vision [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Night Vision|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: Door Decoder",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Door Decoder|"
+	},
+	{
+		"name": "Device Training: Door Decoder [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Door Decoder|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: R-Tracker",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|R-Tracker|"
+	},
+	{
+		"name": "Device Training: R-Tracker [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|R-Tracker|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: IR Scanner",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|IR Scanner|"
+	},
+	{
+		"name": "Device Training: IR Scanner [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|IR Scanner|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: X-Ray Scanner",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|X-Ray Scanner|"
+	},
+	{
+		"name": "Device Training: X-Ray Scanner [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|X-Ray Scanner|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: Disguise",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": []
+	},
+	{
+		"name": "Device Training: Disguise [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": [],
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Device Training: Cloaking Device",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Cloaking Device|"
+	},
+	{
+		"name": "Device Training: Cloaking Device [Star]",
+		"region": "Carrington Institute",
+		"category": ["Device Training"],
+		"requires": "|Cloaking Device|",
+		"place_item": ["Device Training Star"]
+	},
+	{
+		"name": "Firing Range: Falcon 2 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Silencer) [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Silencer) [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Silencer) [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Silencer)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Silencer) [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Silencer)|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Scope) [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Scope)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Scope) [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Scope)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Scope) [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Scope)|"
+	},
+	{
+		"name": "Firing Range: Falcon 2 (Scope) [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Falcon 2 (Scope)|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: MagSec 4 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|MagSec 4|"
+	},
+	{
+		"name": "Firing Range: MagSec 4 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|MagSec 4|"
+	},
+	{
+		"name": "Firing Range: MagSec 4 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|MagSec 4| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: MagSec 4 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|MagSec 4| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Mauler [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Mauler|"
+	},
+	{
+		"name": "Firing Range: Mauler [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Mauler| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Mauler [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Mauler| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Mauler [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Mauler| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Phoenix [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Phoenix|"
+	},
+	{
+		"name": "Firing Range: Phoenix [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Phoenix| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Phoenix [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Phoenix| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Phoenix [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Phoenix| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: DY357 Magnum [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357 Magnum|"
+	},
+	{
+		"name": "Firing Range: DY357 Magnum [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357 Magnum|"
+	},
+	{
+		"name": "Firing Range: DY357 Magnum [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357 Magnum|"
+	},
+	{
+		"name": "Firing Range: DY357 Magnum [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357 Magnum|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: DY357-LX [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357-LX|"
+	},
+	{
+		"name": "Firing Range: DY357-LX [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357-LX|"
+	},
+	{
+		"name": "Firing Range: DY357-LX [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357-LX|"
+	},
+	{
+		"name": "Firing Range: DY357-LX [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|DY357-LX|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: CMP150 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|CMP150|"
+	},
+	{
+		"name": "Firing Range: CMP150 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|CMP150| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: CMP150 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|CMP150| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: CMP150 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|CMP150| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Cyclone [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Cyclone|"
+	},
+	{
+		"name": "Firing Range: Cyclone [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Cyclone|"
+	},
+	{
+		"name": "Firing Range: Cyclone [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Cyclone|"
+	},
+	{
+		"name": "Firing Range: Cyclone [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Cyclone|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Callisto NTG [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Callisto NTG|"
+	},
+	{
+		"name": "Firing Range: Callisto NTG [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Callisto NTG| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Callisto NTG [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Callisto NTG| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Callisto NTG [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Callisto NTG| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: RC-P120 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|RC-P120|"
+	},
+	{
+		"name": "Firing Range: RC-P120 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|RC-P120| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: RC-P120 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|RC-P120| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: RC-P120 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|RC-P120| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Laptop Gun [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laptop Gun|"
+	},
+	{
+		"name": "Firing Range: Laptop Gun [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laptop Gun| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Laptop Gun [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laptop Gun|"
+	},
+	{
+		"name": "Firing Range: Laptop Gun [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laptop Gun| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Dragon [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Dragon|"
+	},
+	{
+		"name": "Firing Range: Dragon [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Dragon| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Dragon [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Dragon|"
+	},
+	{
+		"name": "Firing Range: Dragon [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Dragon| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: K7 Avenger [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|K7 Avenger|"
+	},
+	{
+		"name": "Firing Range: K7 Avenger [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|K7 Avenger| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: K7 Avenger [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|K7 Avenger|"
+	},
+	{
+		"name": "Firing Range: K7 Avenger [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|K7 Avenger| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: AR34 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|AR34|"
+	},
+	{
+		"name": "Firing Range: AR34 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|AR34|"
+	},
+	{
+		"name": "Firing Range: AR34 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|AR34| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: AR34 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|AR34| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: SuperDragon [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|SuperDragon|"
+	},
+	{
+		"name": "Firing Range: SuperDragon [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|SuperDragon| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: SuperDragon [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|SuperDragon| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: SuperDragon [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|SuperDragon| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Shotgun [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Shotgun| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Shotgun [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Shotgun| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Shotgun [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Shotgun| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Shotgun [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Shotgun| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Reaper [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Reaper|"
+	},
+	{
+		"name": "Firing Range: Reaper [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Reaper|"
+	},
+	{
+		"name": "Firing Range: Reaper [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Reaper|"
+	},
+	{
+		"name": "Firing Range: Reaper [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Reaper|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Sniper Rifle [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Sniper Rifle| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Sniper Rifle [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Sniper Rifle| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Sniper Rifle [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Sniper Rifle| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Sniper Rifle [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Sniper Rifle| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: FarSight XR-20 [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|FarSight XR-20|"
+	},
+	{
+		"name": "Firing Range: FarSight XR-20 [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|FarSight XR-20|"
+	},
+	{
+		"name": "Firing Range: FarSight XR-20 [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|FarSight XR-20|"
+	},
+	{
+		"name": "Firing Range: FarSight XR-20 [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|FarSight XR-20|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Devastator [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Devastator|"
+	},
+	{
+		"name": "Firing Range: Devastator [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Devastator| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Devastator [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Devastator| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Devastator [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Devastator| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Rocket Launcher [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Rocket Launcher|"
+	},
+	{
+		"name": "Firing Range: Rocket Launcher [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Rocket Launcher|"
+	},
+	{
+		"name": "Firing Range: Rocket Launcher [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Rocket Launcher|"
+	},
+	{
+		"name": "Firing Range: Rocket Launcher [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Rocket Launcher|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Slayer [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Slayer|"
+	},
+	{
+		"name": "Firing Range: Slayer [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Slayer| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Slayer [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Slayer| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Slayer [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Slayer| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Combat Knife [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Combat Knife| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Combat Knife [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Combat Knife| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Combat Knife [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Combat Knife| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Combat Knife [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Combat Knife| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Crossbow [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Crossbow|"
+	},
+	{
+		"name": "Firing Range: Crossbow [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Crossbow|"
+	},
+	{
+		"name": "Firing Range: Crossbow [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Crossbow|"
+	},
+	{
+		"name": "Firing Range: Crossbow [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Crossbow|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Tranquilizer [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Tranquilizer|"
+	},
+	{
+		"name": "Firing Range: Tranquilizer [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Tranquilizer|"
+	},
+	{
+		"name": "Firing Range: Tranquilizer [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Tranquilizer|"
+	},
+	{
+		"name": "Firing Range: Tranquilizer [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Tranquilizer|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Laser [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laser|"
+	},
+	{
+		"name": "Firing Range: Laser [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laser|"
+	},
+	{
+		"name": "Firing Range: Laser [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laser|"
+	},
+	{
+		"name": "Firing Range: Laser [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Laser|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Grenade [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Grenade|"
+	},
+	{
+		"name": "Firing Range: Grenade [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Grenade|"
+	},
+	{
+		"name": "Firing Range: Grenade [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Grenade|"
+	},
+	{
+		"name": "Firing Range: Grenade [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Grenade|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Timed Mine [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Timed Mine|"
+	},
+	{
+		"name": "Firing Range: Timed Mine [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Timed Mine|"
+	},
+	{
+		"name": "Firing Range: Timed Mine [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Timed Mine|"
+	},
+	{
+		"name": "Firing Range: Timed Mine [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Timed Mine|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Proximity Mine [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Proximity Mine|"
+	},
+	{
+		"name": "Firing Range: Proximity Mine [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Proximity Mine|"
+	},
+	{
+		"name": "Firing Range: Proximity Mine [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Proximity Mine|"
+	},
+	{
+		"name": "Firing Range: Proximity Mine [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Proximity Mine|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Firing Range: Remote Mine [Bronze]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Remote Mine| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Remote Mine [Silver]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Remote Mine| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Remote Mine [Gold]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Remote Mine| AND |Weapons secondary action|"
+	},
+	{
+		"name": "Firing Range: Remote Mine [Star]",
+		"region": "Carrington Institute",
+		"category": ["Firing Range"],
+		"requires": "|Remote Mine| AND |Weapons secondary action|",
+		"place_item": ["Firing Range Platinum Star"]
+	},
+	{
+		"name": "Missions: Medal",
+		"region": "Medals",
+		"category": ["Medals"],
+		"requires": "|Mission Star:12|",
+		"place_item": ["Assignment Medal"]
+	},
+	{
+		"name": "Special Assignments: Medal",
+		"region": "Medals",
+		"category": ["Medals"],
+		"requires": "|Special Assignment Star:3|",
+		"place_item": ["Assignment Medal"]
+	},
+	{
+		"name": "Firing Range: Medal",
+		"region": "Medals",
+		"category": ["Medals"],
+		"requires": "|Firing Range Platinum Star:24|",
+		"place_item": ["Assignment Medal"]
+	},
+	{
+		"name": "Holo VR: Medal",
+		"region": "Medals",
+		"category": ["Medals"],
+		"requires": "|Holo VR Star:7|",
+		"place_item": ["Assignment Medal"]
+	},
+	{
+		"name": "Device Training: Medal",
+		"region": "Medals",
+		"category": ["Medals"],
+		"requires": "|Device Training Star:8|",
+		"place_item": ["Assignment Medal"]
+	},
+	{
+		"name": "All clear",
+		"region": "Medals",
+		"category": ["Victory"],
+		"requires": "|Assignment Medal:4|"
+	},
+	{
+		"name": "All clear - Victory",
+		"region": "Medals",
+		"category": ["Victory"],
+		"victory": true,
+		"requires": "|Assignment Medal:4|"
+	}
+]
